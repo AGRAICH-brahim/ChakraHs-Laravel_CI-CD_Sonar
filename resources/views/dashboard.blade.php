@@ -5,10 +5,10 @@
         </h2>
         {{-- <section id="actions" class="py-4 mb-4 bg-light shadow-sm">
             <div class="container">
-                <div class="row">
+                <div class="row">   
                     
                     <div class="col-md-4 offset-1">
-                        <input type="text" name="search" id="search" class="form-control shadow" placeholder="Search">
+                        <input type="text" name="search" id="search" class="form-control shadow" placeholder="Search ...">
                     </div>
                 </div>
             </div>
