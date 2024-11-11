@@ -8,7 +8,7 @@
                 <div class="row">   
                     
                     <div class="col-md-4 offset-1">
-                        <input type="text" name="search" id="search" class="form-control shadow" placeholder="Search ">
+                        <input type="text" name="search" id="search" class="form-control shadow" placeholder="Search ..... ">
                     </div>
                 </div>
             </div>
